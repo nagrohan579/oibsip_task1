@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="enter_temperature_in_fahrenheit">Enter Temperature in Fahrenheit</string>
+    <string name="convert">Convert</string>
+    <string name="_0">0</string>
+    <string name="celsius">Celsius</string>
+</resources>
